@@ -10,3 +10,8 @@
 }
 
 @import url(fonts.css);
+
+body {
+    background: rgb(34,87,122);
+    background: linear-gradient(90deg, rgba(34,87,122,1) 0%, rgba(56,163,165,1) 35%, rgba(87,204,153,1) 100%);
+}
